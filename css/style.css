@@ -1,0 +1,31 @@
+body{
+    background-color: white;
+}
+
+.carousel-inner{
+    width: fit-content;
+    height: auto;
+    margin: auto;
+}
+
+.card-img-top{
+    width: auto;
+    height: 180px;
+}
+
+.hot-badge{
+    width: 130px;
+    height: 50px;
+}
+
+.footer{
+    background-color: black;
+    margin: auto;
+    height: 100px;
+}
+
+.footer-text{
+    color: white;
+    text-align: center;
+    margin: auto;
+}
